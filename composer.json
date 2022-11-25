@@ -50,7 +50,7 @@
         "doctrine/annotations": "1.2.1",
         "symfony/form": "2.5.7",
         "symfony/validator": "2.6.1",
-        "symfony/framework-bundle": "2.6.1",
+        "symfony/framework-bundle": "2.7.51",
         "symfony/event-dispatcher": "2.6.1",
         "apache/log4php": "2.3.0",
         "silex/silex": "dev-master#4a79566ea01041ed5cd43d0cdbaad9452673dad8",
