@@ -27,7 +27,7 @@
         "symfony/security": "~2.4",
         "symfony/config": "~2.4",
         "symfony/locale": "~2.4",
-        "symfony/form": "~2.4",
+        "symfony/form": "~3.0",
         "symfony/browser-kit": "~2.4",
         "symfony/css-selector": "~2.4",
         "symfony/debug": "~2.4",
